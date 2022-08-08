@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "959927075046",
+    "project_id": "voyage-e71ac",
+    "storage_bucket": "voyage-e71ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959927075046:android:ac29cd04b0cfe4e929bb27",
+        "android_client_info": {
+          "package_name": "com.example.sample_pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959927075046-2gmgpj68sldqgtkqp4bd8magki4qfsb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ_nVJN4jeb93i_7wnQt5A6A43NH6veZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959927075046-2gmgpj68sldqgtkqp4bd8magki4qfsb4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "959927075046-4vdp78erp9api184553fm9phif83ndrf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.samplePushnotification"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959927075046:android:db0c82873dc38eca29bb27",
+        "android_client_info": {
+          "package_name": "com.rootsys.voyage.push_notification_fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959927075046-2gmgpj68sldqgtkqp4bd8magki4qfsb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ_nVJN4jeb93i_7wnQt5A6A43NH6veZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959927075046-2gmgpj68sldqgtkqp4bd8magki4qfsb4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "959927075046-4vdp78erp9api184553fm9phif83ndrf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.samplePushnotification"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
